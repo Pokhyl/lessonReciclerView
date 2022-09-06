@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lessonReciclerView</string>
+    <string name="move_up" />
+    <string name="move_down" />
+    <string name="remove" />
+    <string name="user_move_up">move_up</string>
+    <string name="user_move_down">переместить вниз</string>
+    <string name="uuser_move_up">переместить вверх</string>
+    <string name="user_remove">удалить</string>
+</resources>
