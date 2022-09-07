@@ -7,4 +7,7 @@
     <string name="user_move_down">переместить вниз</string>
     <string name="uuser_move_up">переместить вверх</string>
     <string name="user_remove">удалить</string>
+
+    <string name="fire">Fire</string>
+    <string name="unemployed">[Unemployed]</string>
 </resources>
